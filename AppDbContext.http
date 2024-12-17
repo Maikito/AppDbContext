@@ -1,0 +1,6 @@
+@AppDbContext_HostAddress = http://localhost:5136
+
+GET {{AppDbContext_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
